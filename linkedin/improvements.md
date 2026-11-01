@@ -23,6 +23,13 @@ Work through these once the headline and About text are transcribed.
 
 ## Proposed rewrites
 
+### Headline
+**Before:** Compliance & Ethics Deputy Director | Scaled Global Digital Programs | Strategic Risk Leader | Omnichannel | Marketplace, eCommerce
+
+**After:** Compliance & Ethics Deputy Director | eCommerce Trust & Safety | Scaled Global Digital Programs | Strategic Risk Leader
+
+Why: it leads with the role recruiters search for, puts Trust & Safety (your strongest area) early, and drops the vaguer "Omnichannel" and "Marketplace" terms, which can move to the About section.
+
 ### Deputy Director, eCommerce Compliance (2020–2025)
 **Before:** Deputy Director eCommerce Compliance Trust & Safety and Training & Awareness Lead
 

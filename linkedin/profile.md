@@ -3,10 +3,14 @@
 Public URL: linkedin.com/in/jon-berg-bb324923
 
 ## Headline
-<!-- Not yet transcribed. Send a screenshot of the top card. -->
+Compliance & Ethics Deputy Director | Scaled Global Digital Programs | Strategic Risk Leader | Omnichannel | Marketplace, eCommerce
+(Current length: 134 characters, under the 220 limit.)
 
 ## About
-<!-- Not yet transcribed. -->
+<!-- Not yet transcribed. Send a screenshot of the About section. -->
+
+## Location
+Mexico City, Mexico
 
 ## Experience
 
@@ -35,7 +39,7 @@ TEC Inc. · Oct 2010 – Nov 2011 (1 yr 2 mos)
 Taylor Associates, Inc. · May 2006 – Oct 2010 (4 yrs 6 mos)
 
 ## Education
-<!-- Not yet transcribed. -->
+University of Washington (degree and years not yet transcribed)
 
 ## Skills
 <!-- Not yet transcribed. Visible so far: Documentation, Risk Assessment. -->
