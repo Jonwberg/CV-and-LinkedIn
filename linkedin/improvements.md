@@ -1,47 +1,51 @@
 # LinkedIn Improvement Checklist
 
-Work through these once `profile.md` holds the live text. Each item has a quick test and a note on what a strong version looks like.
+Work through these once the headline and About text are transcribed.
 
 ## Headline
-- [ ] Says what you do and for whom, not just a job title. Pattern: `Role | Specialty | Outcome you deliver`.
-- [ ] Includes the two or three keywords recruiters search for in your field.
-- [ ] Under 220 characters and readable on mobile (first ~70 characters carry the message).
+- [ ] Names the role, the specialty and the outcome. Pattern: `Role | Specialty | Outcome`.
+- [ ] Includes search keywords: compliance, trust and safety, e-commerce, environmental compliance.
+- [ ] Under 220 characters.
 
 ## About
-- [ ] First two lines hook the reader; LinkedIn truncates after that with "see more".
-- [ ] Written in first person, present tense.
-- [ ] Covers: who you help, what you do, proof (numbers, named results), and what you want next.
-- [ ] Ends with a clear call to action (how to contact you, what to reach out about).
-- [ ] Skills and tools named in prose so search picks them up.
+- [ ] Hook in the first two lines, before the "see more" cut.
+- [ ] First person, covers scope (14 compliance areas, 4 businesses), specialty and what you want next.
+- [ ] Ends with a call to action.
 
 ## Experience
-- [ ] Every role has 3–5 bullets that start with a strong verb and end with a measurable result.
-- [ ] Bullets describe impact ("cut deploy time 40%"), not duties ("responsible for deployments").
-- [ ] Gaps or short roles have a one-line explanation if needed.
-- [ ] Media attached where it helps: links, decks, screenshots.
+- [ ] Each role has 3 to 5 bullets that start with a verb and end with a result.
+- [ ] Add numbers where you have them (team size, budget, audits passed, incidents reduced).
+- [ ] Add a short note to the early roles (Cardno TEC, TEC Inc., Taylor Associates) about the water and aquatic work.
 
 ## Skills
-- [ ] Top 3 pinned skills match the headline.
-- [ ] Each skill is linked to at least one role.
-- [ ] Remove generic entries ("Microsoft Office") unless core to the role.
-
-## Profile hygiene
-- [ ] Custom URL set (`linkedin.com/in/your-name`).
-- [ ] Current photo, professional background banner.
-- [ ] Open to Work / hiring settings reflect reality.
-- [ ] Featured section shows your best 2–3 items.
-- [ ] Recommendations: ask 2 recent colleagues; offer to write one in return.
+- [ ] Pin the top 3 skills that match the headline.
+- [ ] Remove generic skills that don't support the story.
 
 ## Proposed rewrites
 
-Add each proposed change here as a before/after pair so it can be reviewed before going live.
-
-### Headline
-**Before:**
+### Deputy Director, eCommerce Compliance (2020–2025)
+**Before:** Deputy Director eCommerce Compliance Trust & Safety and Training & Awareness Lead
 
 **After:**
+- Led compliance, trust and safety, and training programs for e-commerce at Walmart de México y Centroamérica.
+- Owned the training and awareness program for compliance teams. [Add: team size or audience]
+- [Add: one measurable result, such as audits passed or issues closed]
 
-### About
-**Before:**
+### Divisional Manager, Leader of E-Commerce Compliance (2017–2020)
+**Before:** Lead for 14 areas of compliance in 4 ecommerce businesses plus program developement for the Trust and Safety area.
 
 **After:**
+- Led compliance across 14 areas in 4 e-commerce businesses.
+- Built the Trust and Safety compliance program from the ground up. [Confirm "from the ground up" is accurate]
+- [Add: one measurable result]
+
+### Senior Manager of Environmental Compliance (2014–2017)
+**Before:** Program developement for water, air emissions and green areas compliance.
+
+**After:**
+- Developed the environmental compliance program covering water, air emissions and green areas.
+- [Add: number of sites covered or permits managed]
+
+### Early roles (2006–2014)
+- Water Resource Specialist, Cardno TEC and TEC Inc. (2010–2014): [Add two or three bullets on water resource projects]
+- Aquatic Scientist, Taylor Associates (2006–2010): [Add two or three bullets on fieldwork and research]
