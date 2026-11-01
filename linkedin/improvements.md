@@ -56,3 +56,14 @@ Why: it leads with the role recruiters search for, puts Trust & Safety (your str
 ### Early roles (2006–2014)
 - Water Resource Specialist, Cardno TEC and TEC Inc. (2010–2014): [Add two or three bullets on water resource projects]
 - Aquatic Scientist, Taylor Associates (2006–2010): [Add two or three bullets on fieldwork and research]
+
+## Draft role: Director eCommerce Compliance (Walmart)
+
+**Draft highlight (as typed):** Lead the compliance programs for marketplace, Platforms and last mile delivery partnering with the business to scale quickly, ethically all while building customer trust.
+
+**Suggested rewrite:**
+- Lead compliance for marketplace, platform and last-mile delivery programs, partnering with the business to scale quickly and ethically.
+- Build customer trust through compliance programs that protect buyers and sellers. [Confirm this matches your work]
+- [Add one measurable result]
+
+Before saving, fix the start date. The highlight should also avoid the same wording as the Deputy Director role, so each role reads as distinct.

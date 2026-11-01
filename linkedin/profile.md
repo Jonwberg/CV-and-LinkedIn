@@ -43,3 +43,10 @@ University of Washington (degree and years not yet transcribed)
 
 ## Skills
 <!-- Not yet transcribed. Visible so far: Documentation, Risk Assessment. -->
+
+## Draft role (unsaved, in progress on LinkedIn)
+Director eCommerce Compliance · Walmart de México y Centroamérica · Full-time · On-site · Mexico City
+Start: July 2026 · Currently working here: yes
+Highlight as drafted: "Lead the compliance programs for marketplace, Platforms and last mile delivery partnering with the business to scale quickly, ethically all while building customer trust."
+
+Open question: the Deputy Director role above ends April 2025, and this draft starts July 2026. Confirm what happened between those dates, such as another role, a sabbatical or a missing entry, before saving. An unexplained gap of more than a year can raise questions with recruiters.
