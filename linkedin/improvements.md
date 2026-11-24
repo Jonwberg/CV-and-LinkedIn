@@ -26,11 +26,11 @@ Work through these once the headline and About text are transcribed.
 ### Headline
 **Before:** Compliance & Ethics Deputy Director | Scaled Global Digital Programs | Strategic Risk Leader | Omnichannel | Marketplace, eCommerce
 
-**After:** Compliance & Ethics Deputy Director | eCommerce Trust & Safety | Scaled Global Digital Programs | Strategic Risk Leader
+**After:** Director, eCommerce Compliance | Trust & Safety | Marketplace & Cross-Border Risk | Scaled Global Digital Programs
 
-Why: it leads with the role recruiters search for, puts Trust & Safety (your strongest area) early, and drops the vaguer "Omnichannel" and "Marketplace" terms, which can move to the About section.
+Why: it reflects the July 2026 promotion, leads with the role recruiters search for, puts Trust & Safety (your strongest area) early, and drops the vaguer "Omnichannel" and "Marketplace" terms, which can move to the About section.
 
-### Deputy Director, eCommerce Compliance (2020–2025)
+### Deputy Director, eCommerce Compliance (2020–2026)
 **Before:** Deputy Director eCommerce Compliance Trust & Safety and Training & Awareness Lead
 
 **After:**
@@ -57,13 +57,6 @@ Why: it leads with the role recruiters search for, puts Trust & Safety (your str
 - Water Resource Specialist, Cardno TEC and TEC Inc. (2010–2014): [Add two or three bullets on water resource projects]
 - Aquatic Scientist, Taylor Associates (2006–2010): [Add two or three bullets on fieldwork and research]
 
-## Draft role: Director eCommerce Compliance (Walmart)
+## Director eCommerce Compliance (Walmart)
 
-**Draft highlight (as typed):** Lead the compliance programs for marketplace, Platforms and last mile delivery partnering with the business to scale quickly, ethically all while building customer trust.
-
-**Suggested rewrite:**
-- Lead compliance for marketplace, platform and last-mile delivery programs, partnering with the business to scale quickly and ethically.
-- Build customer trust through compliance programs that protect buyers and sellers. [Confirm this matches your work]
-- [Add one measurable result]
-
-Before saving, fix the start date. The highlight should also avoid the same wording as the Deputy Director role, so each role reads as distinct.
+Resolved: the Deputy Director role ran May 2020 – Jun 2026 and the Director role started Jul 2026, so there is no gap. The final text for both roles is in `profile.md`, and the steps are in `manual-edits.md`.
