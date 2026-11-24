@@ -9,6 +9,7 @@ A single place to keep the source of truth for my CV and LinkedIn profile, so bo
 | `cv/cv.md` | Master CV in Markdown. Export to PDF with `pandoc cv/cv.md -o cv.pdf` or any Markdown-to-PDF tool. |
 | `linkedin/profile.md` | Current LinkedIn profile text, section by section (headline, About, Experience, Skills). |
 | `linkedin/improvements.md` | Review checklist and proposed rewrites for the LinkedIn profile. |
+| `linkedin/manual-edits.md` | Step-by-step checklist of edits to make by hand on LinkedIn. |
 
 ## Workflow
 
